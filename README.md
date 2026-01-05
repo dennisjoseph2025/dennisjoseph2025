@@ -29,9 +29,16 @@ Hi! I'm **Dennis Joseph**, a passionate **Frontend Developer** based in Kerala, 
 🔧 npm/yarn      | REST APIs        | Chrome DevTools
 ```
 
+### Backend
+```
+🐍 Python        | Django           
+📦 REST APIs     
+```
+
 ### Also Learning
 ```
 🐍 Python        | Backend Concepts | OOP Principles
+🎯 Django         | API Development  | Database Design
 🗄️ Databases     | Server-side Dev  | Web Hosting
 ```
 
@@ -45,10 +52,6 @@ Hi! I'm **Dennis Joseph**, a passionate **Frontend Developer** based in Kerala, 
 - Integrated REST APIs for product management
 - Features: Product listings, cart functionality, user authentication
 
-### 📱 Responsive Web Applications
-- Multiple projects showcasing modern React patterns
-- Mobile-first design approach
-- Performance optimized components
 
 ---
 
@@ -64,48 +67,20 @@ Hi! I'm **Dennis Joseph**, a passionate **Frontend Developer** based in Kerala, 
 
 ---
 
-## 🎮 Interests & Hobbies
 
-- 🎮 Gaming: GTA 5, Fortnite
-- 🎨 Anime & Manga enthusiast
-- 📚 Tech news and web development trends
-- 🍳 Cooking simple meals
-- 💼 Professional networking on LinkedIn
 
----
-
-## 📄 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dennisjoseph2025-dotcom&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dennisjoseph2025-dotcom&layout=compact&theme=dark)
-
----
 
 ## 💫 Let's Connect!
 
-- 💼 **LinkedIn**: [Dennis Joseph](https://linkedin.com/in/yourprofile)
-- 📬 **Email**: [dennis@example.com](mailto:dennis@example.com)
-- 🌐 **Portfolio**: [dennisjoseph2025.com](https://dennisjoseph2025.com)
-- 💬 **GitHub**: [@dennisjoseph2025-dotcom](https://github.com/dennisjoseph2025-dotcom)
-
+- 💼 **LinkedIn**: [Dennis Joseph](https://linkedin.com/in/dennis-joseph-4a8903344)
 ---
 
-## 💡 What I'm Currently Working On
 
-- 🔄 Building advanced React applications with modern hooks
-- 🎓 Deepening my understanding of backend development
-- 🚀 Exploring web hosting and deployment strategies
-- 🤖 Learning about AI and image generation tools
-- 📊 Contributing to open-source projects
-
----
 
 ## ⭐ Fun Facts
 
 - ⚡ Always excited about learning new frameworks and tools
 - 🎯 Believe in writing clean, maintainable code
-- 📱 Mobile-first mindset in all my designs
 - 🚀 Passionate about turning ideas into reality
 - 🤝 Open to collaborations and networking
 
