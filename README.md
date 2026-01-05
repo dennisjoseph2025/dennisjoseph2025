@@ -26,7 +26,7 @@ Hi! I'm **Dennis Joseph**, a passionate **Frontend Developer** based in Kerala, 
 ### Tools & Platforms
 ```
 💾 Git & GitHub  | VS Code          | json-server
-🔧 npm/yarn      | REST APIs        | Chrome DevTools
+🔧 npm           | REST APIs        | Chrome DevTools
 ```
 
 ### Backend
