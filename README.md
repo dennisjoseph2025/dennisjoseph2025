@@ -15,30 +15,34 @@ Hi! I'm **Dennis Joseph**, a passionate **Frontend Developer** based in Kerala, 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies and tools I work with
 
-### Frontend
-```
-✨ React.js      | JavaScript ES6+  | Tailwind CSS
-🎯 Redux Toolkit | React Hooks      | Responsive Design
-```
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br>JavaScript</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/><br>React</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="62"/><br>Redux Toolkit</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="62"/><br>REST API</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="62"/><br>Prettier</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" width="48"/><br>NPM</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/><br>GitHub</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48"/><br>Git</td>
+  </tr>
+  <tr>
+  </tr>
+</table>
 
-### Tools & Platforms
-```
-💾 Git & GitHub  | VS Code          | json-server
-🔧 npm           | REST APIs        | Chrome DevTools
-```
-
-### Backend
-```
-🐍 Python        | Django           
-📦 REST APIs     
-```
 
 ### Also Learning
 ```
 🐍 Python        | Backend Concepts | OOP Principles
-🎯 Django         | API Development  | Database Design
+🎯 Django        | API Development  | Database Design
 🗄️ Databases     | Server-side Dev  | Web Hosting
 ```
 
@@ -66,7 +70,6 @@ Hi! I'm **Dennis Joseph**, a passionate **Frontend Developer** based in Kerala, 
 | **Other** | Responsive Design, UI/UX Implementation |
 
 ---
-
 
 
 
