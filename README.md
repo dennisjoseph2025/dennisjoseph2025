@@ -1,8 +1,9 @@
 # 👋 Welcome to My GitHub Profile!
 
 Hi! I'm **Dennis Joseph**, a passionate **Frontend Developer** from Kerala, India, currently focusing on Python for backend development.
-<img src="173ee0eb290de65a6797e654d3040586.jpg" class="inline-image">
----
+
+<img src="db1142e135a055e76ab366700f32a7a2.jpg" class="inline-image">
+
 
 ## 🚀 About Me
 
