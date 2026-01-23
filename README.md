@@ -28,6 +28,7 @@ Hi! I'm **Dennis Joseph**, a passionate **Frontend Developer** from Kerala, Indi
     <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="62"/><br>Redux Toolkit</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="62"/><br>REST API</td>
   </tr>
+
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br>Python</td>
@@ -37,9 +38,21 @@ Hi! I'm **Dennis Joseph**, a passionate **Frontend Developer** from Kerala, Indi
     <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/><br>GitHub</td>
     <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48"/><br>Git</td>
   </tr>
-  <tr>
-    
-  </tr>
+
+<tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>SQL
+  </td>
+  <td></td>
+  <td></td>
+</tr>
+
 </table>
 
 
