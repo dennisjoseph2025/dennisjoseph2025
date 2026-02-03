@@ -92,7 +92,7 @@ Hi! I'm **Dennis Joseph**, a passionate **Frontend Developer** from Kerala, Indi
 
 ## 💫 Let's Connect!
 
-- 💼 **LinkedIn**: [Dennis Joseph](https://linkedin.com/in/dennis-joseph-4a8903344)
+- 💼 **LinkedIn**: [Dennis Joseph](https://linkedin.com/in/dennisjoseph2025)
 ---
 
 
