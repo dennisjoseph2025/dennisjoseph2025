@@ -1,18 +1,8 @@
-# 👋 Welcome to My GitHub Profile!
+# 👋 Hi, I'm Dennis Joseph
 
-Hi! I'm **Dennis Joseph**, a passionate **Full-Stack Developer** from Kerala, India, building production-ready web applications with React, Django, and Django REST Framework.
+**Python Backend / Full-Stack Developer** from Kozhikode, Kerala — building production-ready APIs and web systems with Django, DRF, React, and AWS.
 
 <img src="db1142e135a055e76ab366700f32a7a2.jpg" class="inline-image">
-
-
-## 🚀 About Me
-
-- 🎓 **Web Development Intern** at Bridgeon Solutions LLP, Calicut
-- 💻 Specializing in **React.js** and **Django / Django REST Framework**
-- 🔐 Experienced in **JWT authentication**, **RBAC**, and **RESTful API design**
-- 🗄️ Skilled in **PostgreSQL** and **Django ORM** (aggregations, Q queries, ORM optimization)
-- 🎨 Proficient with **Tailwind CSS** and **Bootstrap** for responsive UI
-- 📚 Continuously deepening skills in backend architecture, database design, and cloud deployment
 
 ---
 
@@ -50,66 +40,66 @@ Hi! I'm **Dennis Joseph**, a passionate **Full-Stack Developer** from Kerala, In
   </tr>
 </table>
 
-### Also Working With
-```
-🔐 SimpleJWT          | Django REST Framework  | drf-spectacular (Swagger/OpenAPI)
-⚛️  React Context API | Component Architecture | Role-Based Access Control (RBAC)
-🖥️  Gunicorn          | Atomic Transactions    | Query Optimization
-```
+---
+
+## ☁️ Hosting & Infrastructure
+
+| Service | Purpose |
+|---------|---------|
+| **AWS EC2** | Django backend + Gunicorn |
+| **AWS RDS** | PostgreSQL database |
+| **AWS ElastiCache** | Redis for Celery |
+| **AWS S3 + CloudFront** | Static/media assets + CDN |
+| **Vercel** | React frontend |
+| **Docker Compose** | Dev & prod containerization |
+| **GitHub Actions** | CI/CD (lint → test → build → deploy) |
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-### Web Development Intern | Bridgeon Solutions LLP, Calicut — 2025
-- Developed reusable React components and implemented role-protected routing, ensuring only authorized staff could manage scores and events.
-- Built and deployed multiple production projects across the full stack (React, Django/DRF, PostgreSQL).
+### Web Development Intern · Bridgeon Solutions, Calicut — *2025*
+- Built and deployed production apps with React, Django/DRF, and PostgreSQL.
+- Developed reusable components, role-protected routing, and REST APIs with JWT auth and RBAC.
+- Collaborated via Git branching, PRs, and code reviews with Agile delivery.
 
 ---
 
 ## 📁 Projects
 
-### 🛍️ E-Commerce Platform (DENJO-C) — [Live](https://denjo-c.vercel.app) | GitHub
-- Architected a full-stack e-commerce app with React + Vite frontend and Django 6 / DRF backend served by Gunicorn, backed by PostgreSQL.
-- Implemented JWT authentication (SimpleJWT) with token blacklisting for secure logout and a 3-tier RBAC system (user / admin / superadmin) via custom DRF permission classes.
-- Designed a product catalog with Category → SubCategory hierarchy, ManyToMany size variants via a through model, paginated listings, and full-text search using Q queries.
-- Built cart/order checkout with pre-transaction stock validation to prevent overselling.
-- Developed an admin analytics API aggregating revenue and product/user metrics using Django ORM aggregations; documented all endpoints with drf-spectacular (Swagger UI).
+### 🐍 PyDocAI — AI-Powered Documentation Generator
+[Live](https://pydocai.vercel.app) · [GitHub](https://github.com/dennisjoseph2025/PyDocAI)
 
-### 🏆 Bridgeon House Scoring System — [Live](https://bridgeon-house-management.vercel.app) | GitHub
-- Built a production-ready inter-house competition management system for Bridgeon Solutions to track scores, events, and activities across house teams.
-- React + Vite frontend with Firebase backend for real-time data sync — live score updates without page refresh.
-- Implemented role-protected routes ensuring only authorized staff can manage scores and events.
-- Deployed on Vercel with fully responsive design across all devices.
+*Django 5.2, DRF, Celery, Redis, PostgreSQL, React 19 + TypeScript + Vite + Tailwind, Groq API, Docker, AWS (EC2, RDS, ElastiCache, S3, CloudFront)*
 
----
+AI SaaS that parses code with AST and generates Markdown docs via Groq LLM. Async Celery pipeline with rate limiting. Full AWS deployment with CI/CD. GitHub OAuth, JWT auto-refresh, role-based UI.
 
-## 🎯 Skills & Expertise
+### 🛍️ DENJO-C — E-Commerce Platform
+[Live](https://denjo-c.vercel.app) · [GitHub](https://github.com/dennisjoseph2025/denjo-c)
 
-| Category | Skills |
-|----------|--------|
-| **Frontend** | React, JavaScript (ES6+), Tailwind CSS, Bootstrap, HTML5, CSS3 |
-| **State Management** | Redux Toolkit, React Context API |
-| **Backend** | Python, Django, Django REST Framework, SimpleJWT, RBAC, Atomic Transactions |
-| **Database** | PostgreSQL, Django ORM, Query Optimization, Database Design |
-| **API** | RESTful API, DRF, drf-spectacular (Swagger/OpenAPI), API Integration |
-| **DevOps & Tools** | Git, GitHub, Vercel, Gunicorn, AWS (EC2, RDS), Firebase, Vite, NPM |
+*React + Vite, Django 6 / DRF, PostgreSQL, JWT, 3-tier RBAC*
+
+Product catalog, cart with stock validation, admin analytics, Swagger-documented API.
+
+### 📚 EduCom — Student Management Platform
+[Live](https://student-management-django-omega.vercel.app) · [GitHub](https://github.com/dennisjoseph2025/educom)
+
+*Django, PostgreSQL, Bootstrap*
+
+Session auth, RBAC, normalized relational schema, responsive dashboards.
 
 ---
 
-## 💫 Let's Connect!
+## 🎓 Education
 
-- 💼 **LinkedIn**: [Dennis Joseph](https://linkedin.com/in/dennisjoseph2025)
-
----
-
-## ⭐ Fun Facts
-
-- ⚡ Always excited about learning new frameworks and tools
-- 🎯 Believe in writing clean, maintainable code
-- 🚀 Passionate about turning ideas into reality
-- 🤝 Open to collaborations and networking
+**B.Com in Computer Applications** — BVM Holy Cross College, MG University *(2022 – 2025)*
 
 ---
 
-**Thank you for visiting my profile! Feel free to explore my projects and reach out if you'd like to collaborate!** 🚀
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dennisjoseph2025-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/dennisjoseph2025)
+[![Email](https://img.shields.io/badge/Email-dennisjoseph2025%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:dennisjoseph2025@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dennis--r.vercel.app-000?style=flat&logo=vercel)](https://dennis-r.vercel.app/)
+
+⚡ C1 Advanced English (EF SET Certified) · Open to collaborations 🚀
