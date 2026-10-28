@@ -1,105 +1,70 @@
-# 👋 Hi, I'm Dennis Joseph
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A2E4A&height=130&section=header&text=Dennis%20Joseph&fontSize=42&fontColor=ffffff&fontAlignY=38" width="100%" alt="Dennis Joseph" />
 
-**Python Backend / Full-Stack Developer** from Kozhikode, Kerala — building production-ready APIs and web systems with Django, DRF, React, and AWS.
+<p align="center">
+  <a href="https://github.com/dennisjoseph2025">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=640&lines=Python+Backend+Developer;Django+%C2%B7+DRF+%C2%B7+FastAPI+%C2%B7+PostgreSQL;I+ship+APIs+to+production+with+Docker+%2B+AWS;Available+immediately+%C2%B7+Open+to+relocation" alt="Typing intro" />
+  </a>
+</p>
 
-<img src="db1142e135a055e76ab366700f32a7a2.jpg" class="inline-image">
+<p align="center">
+  <a href="https://linkedin.com/in/dennisjoseph2025"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dennisjoseph2025@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://denjo.in/"><img src="https://img.shields.io/badge/Portfolio-1A2E4A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
----
+```python
+class Dennis:
+    role     = "Software Developer @ Bridgeon Solutions (Aug 2025 - now)"
+    location = "Kozhikode, Kerala, India"
+    focus    = ["REST APIs", "async workloads", "LLM integration", "CI/CD"]
+    shipping = ["Skyrict ERP (team of 4)", "PyDocAI", "DENJO-C"]
+    english  = "C1 Advanced (EF SET)"
+    hiring   = "Python / Backend / Full-Stack / AI Engineer roles"
+```
 
-## 🛠️ Technologies and Tools I Work With
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,aws,githubactions,react,nextjs,ts,tailwind,git" alt="Stack" />
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br>JavaScript</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/><br>React</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="62"/><br>Redux Toolkit</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="62"/><br>REST API</td>
-  </tr>
+## Featured work
 
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="48"/><br>Django</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>SQL</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/><br>GitHub</td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48"/><br>Git</td>
-  </tr>
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **Skyrict** *(team of 4)* | Multi-tenant AI-native ERP. **I own the Finance & Accounting module:** double-entry bookkeeping, invoicing, multi-currency FX, 4 financial reports, AI journal drafting. | FastAPI, async SQLAlchemy, PostgreSQL (RLS, pgvector), Next.js, LangGraph | [Live](https://skyrict.in/) · [Code](https://github.com/nkswalih/skyrict) |
+| **PyDocAI** | AI SaaS that turns Python files, ZIPs and repos into Markdown docs with Mermaid diagrams. Celery pipeline with retries and LLM fallback; 5-stage CI/CD to AWS. | Django, DRF, Celery, Redis, React + TS, Groq, AWS | [Live](https://pydocai.vercel.app) · [Code](https://github.com/dennisjoseph2025/PyDocAI) |
+| **DENJO-C** | E-commerce platform with variants, stock-validated checkout, search, 3-tier RBAC and Swagger docs. | Django, DRF, PostgreSQL, React + Vite | [Live](https://denjo-c.vercel.app) · [Code](https://github.com/dennisjoseph2025/Denjo-C_E-Commerce) |
+| **EduCom** | Student management platform with RBAC and responsive dashboards. | Django, PostgreSQL, Bootstrap | [Live](https://student-management-django-omega.vercel.app) · [Code](https://github.com/dennisjoseph2025/educom) |
 
-  <tr>
-    <td align="center"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br>AWS (EC2/RDS)</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br>Vercel</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vite" width="48"/><br>Vite</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="62"/><br>Prettier</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=npm" width="48"/><br>NPM</td>
-    <td></td>
-  </tr>
-</table>
+## Activity
 
----
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dennisjoseph2025&show_icons=true&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=E2E8F0&icon_color=2563EB" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisjoseph2025&layout=compact&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=E2E8F0" alt="Top languages" />
+</p>
 
-## ☁️ Hosting & Infrastructure
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dennisjoseph2025&hide_border=true&background=0F172A&ring=2563EB&fire=2563EB&currStreakLabel=E2E8F0&sideLabels=E2E8F0&currStreakNum=60A5FA&sideNums=60A5FA&dates=94A3B8" alt="Streak" />
+</p>
 
-| Service | Purpose |
-|---------|---------|
-| **AWS EC2** | Django backend + Gunicorn |
-| **AWS RDS** | PostgreSQL database |
-| **AWS ElastiCache** | Redis for Celery |
-| **AWS S3 + CloudFront** | Static/media assets + CDN |
-| **Vercel** | React frontend |
-| **Docker Compose** | Dev & prod containerization |
-| **GitHub Actions** | CI/CD (lint → test → build → deploy) |
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dennisjoseph2025&bg_color=0F172A&color=60A5FA&line=2563EB&point=FFFFFF&area=true&hide_border=true&radius=8" alt="Contribution graph" />
+</p>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dennisjoseph2025/dennisjoseph2025/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/dennisjoseph2025/dennisjoseph2025/output/github-snake.svg" />
+  </picture>
+</p>
 
-## 💼 Experience
+## Under the hood
 
-### Web Development Intern · Bridgeon Solutions, Calicut — *2025*
-- Built and deployed production apps with React, Django/DRF, and PostgreSQL.
-- Developed reusable components, role-protected routing, and REST APIs with JWT auth and RBAC.
-- Collaborated via Git branching, PRs, and code reviews with Agile delivery.
+- **Backend:** Django, DRF, FastAPI, SQLAlchemy 2.0, Celery, JWT / OAuth, RBAC
+- **Data and AI:** PostgreSQL (RLS, pgvector), Redis, Groq, OpenRouter, LangGraph, RAG, RAGAS
+- **Infra:** Docker, AWS (EC2, RDS, ElastiCache, S3, CloudFront), GitHub Actions
 
----
+**Education:** B.Com in Computer Applications, BVM Holy Cross College, MG University (2022 - 2025)
 
-## 📁 Projects
+<p align="center"><i>Looking for a team where I can keep shipping production systems. Say hi by <a href="mailto:dennisjoseph2025@gmail.com">email</a> or <a href="https://linkedin.com/in/dennisjoseph2025">LinkedIn</a>.</i></p>
 
-### 🐍 PyDocAI — AI-Powered Documentation Generator
-[Live](https://pydocai.vercel.app) · [GitHub](https://github.com/dennisjoseph2025/PyDocAI)
-
-*Django 5.2, DRF, Celery, Redis, PostgreSQL, React 19 + TypeScript + Vite + Tailwind, Groq API, Docker, AWS (EC2, RDS, ElastiCache, S3, CloudFront)*
-
-AI SaaS that parses code with AST and generates Markdown docs via Groq LLM. Async Celery pipeline with rate limiting. Full AWS deployment with CI/CD. GitHub OAuth, JWT auto-refresh, role-based UI.
-
-### 🛍️ DENJO-C — E-Commerce Platform
-[Live](https://denjo-c.vercel.app) · [GitHub](https://github.com/dennisjoseph2025/denjo-c)
-
-*React + Vite, Django 6 / DRF, PostgreSQL, JWT, 3-tier RBAC*
-
-Product catalog, cart with stock validation, admin analytics, Swagger-documented API.
-
-### 📚 EduCom — Student Management Platform
-[Live](https://student-management-django-omega.vercel.app) · [GitHub](https://github.com/dennisjoseph2025/educom)
-
-*Django, PostgreSQL, Bootstrap*
-
-Session auth, RBAC, normalized relational schema, responsive dashboards.
-
----
-
-## 🎓 Education
-
-**B.Com in Computer Applications** — BVM Holy Cross College, MG University *(2022 – 2025)*
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dennisjoseph2025-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/dennisjoseph2025)
-[![Email](https://img.shields.io/badge/Email-dennisjoseph2025%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:dennisjoseph2025@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-dennis--r.vercel.app-000?style=flat&logo=vercel)](https://dennis-r.vercel.app/)
-
-⚡ C1 Advanced English (EF SET Certified) · Open to collaborations 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A2E4A&height=80&section=footer" width="100%" alt="" />
